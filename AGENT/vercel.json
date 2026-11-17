@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/index.py" },
+    { "source": "/landing", "destination": "/landing.html" },
+    { "source": "/analysis", "destination": "/index.html" },
+    { "source": "/datalens", "destination": "/index.html" }
+  ]
+}

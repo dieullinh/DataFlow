@@ -1,0 +1,27 @@
+[
+  {
+    "id": "INQ-2026-001",
+    "received_at": "2026-11-10T14:30:00",
+    "source": "Email",
+    "customer": {
+      "company_name": "Công ty Cổ phần Giải pháp LogiTech",
+      "contact_person": "Anh Trần Tuấn - Trưởng phòng IT",
+      "email": "tuan.tran@logitech-vn.example",
+      "phone": "0912345678"
+    },
+    "raw_content": "Chào Minh An,\nCông ty tôi đang cần trang bị hạ tầng mạng cho văn phòng chi nhánh mới tại Q7 gồm:\n- 1 máy chủ Dell R750xs cấu hình chuẩn\n- 2 chiếc Switch Cisco 24 cổng PoE mã C9200L\n- 6 bộ phát wifi Aruba AP22 treo trần\n- 1 bộ lưu điện APC 3kVA\n- Kèm dịch vụ lắp đặt triển khai trọn gói.\n\nTổng ngân sách dự trù bên tôi khoảng 200 triệu. Yêu cầu bàn giao và nghiệm thu xong trước ngày 20/11/2026 (sau 10 ngày). Do bên tôi là khách hàng quen, đề xuất chiết khấu thêm 12% so với giá niêm yết để kịp trình ban giám đốc ký duyệt tuần này.\nBáo sớm giúp mình nhé!\nTuấn - IT Manager."
+  },
+  {
+    "id": "INQ-2026-002",
+    "received_at": "2026-11-11T08:15:00",
+    "source": "Web Form",
+    "customer": {
+      "company_name": "Công ty TNHH May Mặc Hưng Phát",
+      "contact_person": "Chị Mai Hương - Kế toán trưởng",
+      "email": "huong.mai@hungphatgarment.example",
+      "phone": "0988776655"
+    },
+    "raw_content": "Cần báo giá gấp 2 con Firewall Fortinet 60F và 4 con Wifi Aruba AP22. Cần hàng gấp trong 3 ngày để lắp nhà xưởng. Chiết khấu thương mại mong muốn 5%."
+  }
+]
+

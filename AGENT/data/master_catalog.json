@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "sku": "MA-SRV-01",
+      "name": "Máy chủ Dell PowerEdge R750xs",
+      "category": "Server",
+      "unit_price": 85000000,
+      "stock_available": 4,
+      "lead_time_in_stock_days": 2,
+      "lead_time_out_stock_days": 21,
+      "specs": "Intel Xeon Silver 4314, 32GB RAM, 2x 480GB SSD"
+    },
+    {
+      "sku": "MA-SW-01",
+      "name": "Switch Cisco Catalyst C9200L-24P-4G",
+      "category": "Networking",
+      "unit_price": 28500000,
+      "stock_available": 12,
+      "lead_time_in_stock_days": 1,
+      "lead_time_out_stock_days": 14,
+      "specs": "24 Port PoE+, 4x 1G SFP uplinks"
+    },
+    {
+      "sku": "MA-AP-01",
+      "name": "Bộ phát WiFi Aruba Instant On AP22",
+      "category": "Networking",
+      "unit_price": 3800000,
+      "stock_available": 35,
+      "lead_time_in_stock_days": 1,
+      "lead_time_out_stock_days": 7,
+      "specs": "Wi-Fi 6 (802.11ax), 2x2:2 MU-MIMO"
+    },
+    {
+      "sku": "MA-UPS-01",
+      "name": "Bộ lưu điện APC Smart-UPS 3000VA LCD RM 2U",
+      "category": "Power",
+      "unit_price": 34000000,
+      "stock_available": 2,
+      "lead_time_in_stock_days": 2,
+      "lead_time_out_stock_days": 28,
+      "specs": "3000VA/2700W, Rackmount 2U"
+    },
+    {
+      "sku": "MA-FW-01",
+      "name": "Tường lửa Fortinet FortiGate 60F",
+      "category": "Security",
+      "unit_price": 19500000,
+      "stock_available": 0,
+      "lead_time_in_stock_days": 1,
+      "lead_time_out_stock_days": 10,
+      "specs": "10x GE RJ45, Max Throughput 10 Gbps"
+    },
+    {
+      "sku": "MA-SVC-INS",
+      "name": "Dịch vụ lắp đặt và cấu hình hệ thống mạng/server",
+      "category": "Service",
+      "unit_price": 6000000,
+      "stock_available": 999,
+      "lead_time_in_stock_days": 2,
+      "lead_time_out_stock_days": 2,
+      "specs": "Thi công cáp, cấu hình VLAN, RAID, cài OS"
+    }
+  ],
+  "policy": {
+    "max_rep_discount_percent": 10.0,
+    "sales_manager_approval_required_over": 10.0,
+    "approver_email": "truongphong.kd@minhan.com.vn",
+    "reps": [
+      {"id": "NV01", "name": "Nguyễn Văn An", "email": "an.nv@minhan.com.vn"},
+      {"id": "NV02", "name": "Trần Thị Bích", "email": "bich.tt@minhan.com.vn"},
+      {"id": "NV03", "name": "Lê Hoàng Cường", "email": "cuong.lh@minhan.com.vn"},
+      {"id": "NV04", "name": "Phạm Thu Dung", "email": "dung.pt@minhan.com.vn"},
+      {"id": "NV05", "name": "Đặng Quốc Em", "email": "em.dq@minhan.com.vn"},
+      {"id": "NV06", "name": "Vũ Minh Phương", "email": "phuong.vm@minhan.com.vn"}
+    ]
+  }
+}
+
